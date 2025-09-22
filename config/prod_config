@@ -1,0 +1,6 @@
+INSTANCE_TYPE="t2.small"
+KEY_NAME="techeazy-key"
+SECURITY_GROUP_NAME="techeazy-sg-prod"
+REGION="us-east-1"
+REPO_URL="https://github.com/Trainings-TechEazy/test-repo-for-devops"
+STAGE="Prod"
