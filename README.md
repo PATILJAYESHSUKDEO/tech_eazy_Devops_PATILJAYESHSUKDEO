@@ -1,0 +1,2 @@
+# tech_eazy_Devops_PATILJAYESHSUKDEO
+Automated EC2 application Deployment
