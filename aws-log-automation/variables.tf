@@ -8,7 +8,7 @@ variable "bucket_name" {
   description = "Name of the S3 bucket for logs (must be globally unique)"
   type        = string
 }
-
+git 
 variable "instance_type" {
   description = "EC2 instance type"
   type        = string
